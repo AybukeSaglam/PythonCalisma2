@@ -1,1 +1,4 @@
-# vsc_Python
+#first-app
+
+print("merhaba")
+
