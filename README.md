@@ -1,4 +1,3 @@
 #first-app
 
-print("merhaba")
 
